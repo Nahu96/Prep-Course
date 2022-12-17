@@ -1,0 +1,15 @@
+conceptos
+
+for: Es una expresión, un bucle. Esta conformado, dentro de sus parentesis, por una variable, 
+una condición de frenado (cuando querés que deje de ejecutar el código) y por ultimo 
+incrementamos nuestra variable.
+
+&& : Es un operador lógico ( Y, AND). Este operador evalúa dos o más expresiones, si todas las 
+expresiones son verdaderas devolverá TRUE. Si una o todas las expresiones son falsas 
+devolverá FALSE.
+
+|| : este operador ( Ó, OR), determina si una de las expresiones es TRUE. Si una o todas las
+expresiones son verdaderas va a devolver TRUE. Si todas las expresiones son falsas vas a 
+devolver FALSE.
+
+! : este operador ( NO, NOT) devolverá el valor booleano opuesto de lo que se le pase.
